@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <Button
+        android:id="@+id/red_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/red600"
+        android:text="@string/red_button"/>
+
+    <Button
+        android:id="@+id/orange_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/orange600"
+        android:layout_centerHorizontal="true"
+        android:text="@string/orange_button"/>
+
+    <Button
+        android:id="@+id/yellow_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/yellow600"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/yellow_button"/>
+
+    <Button
+        android:id="@+id/green_button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/blue_button"
+        android:layout_toStartOf="@+id/blue_button"
+        android:layout_marginEnd="30dp"
+        android:background="@color/green600"
+        android:text="@string/green_button" />
+
+    <Button
+        android:id="@+id/blue_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/blue600"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/blue_button"/>
+
+    <Button
+        android:id="@+id/indigo_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/indigo600"
+        android:layout_alignBaseline="@+id/blue_button"
+        android:layout_toEndOf="@+id/blue_button"
+        android:layout_marginStart="30dp"
+        android:text="@string/indigo_button"/>
+
+    <Button
+        android:id="@+id/pink_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="@string/pink_button"/>
+
+    <Button
+        android:id="@+id/violet_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/purple300"
+        android:layout_alignParentBottom="true"
+        android:text="@string/violet_button"/>
+
+</RelativeLayout>

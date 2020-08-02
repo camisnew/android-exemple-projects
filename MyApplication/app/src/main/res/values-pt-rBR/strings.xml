@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--PORTUGUESE-->
+
+    <string name="app_name">Exercícios Layout</string>
+    <string name="red_button">VERMELHO</string>
+    <string name="pink_button">ROSA</string>
+    <string name="indigo_button">ÍNDIGO</string>
+    <string name="blue_button">AZUL</string>
+    <string name="green_button">VERDE</string>
+    <string name="yellow_button">AMARELO</string>
+    <string name="orange_button">LARANJA</string>
+    <string name="violet_button">VIOLETA</string>
+
+
+    <string name="row_one">coluna um</string>
+    <string name="row_two">coluna dois</string>
+    <string name="row_three">coluna três</string>
+    <string name="row_four">coluna quatro</string>
+</resources>

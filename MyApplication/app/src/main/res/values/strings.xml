@@ -1,0 +1,20 @@
+<resources>
+
+    <!--ENGLISH-->
+
+    <string name="app_name">LayoutExercises</string>
+    <string name="red_button">RED</string>
+    <string name="pink_button">PINK</string>
+    <string name="indigo_button">INDIGO</string>
+    <string name="blue_button">BLUE</string>
+    <string name="green_button">GREEN</string>
+    <string name="yellow_button">YELLOW</string>
+    <string name="orange_button">ORANGE</string>
+    <string name="violet_button">VIOLET</string>
+
+
+    <string name="row_two">row two</string>
+    <string name="row_one">row one</string>
+    <string name="row_three">row three</string>
+    <string name="row_four">row four</string>
+</resources>
