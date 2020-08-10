@@ -17,4 +17,5 @@
     <string name="row_one">row one</string>
     <string name="row_three">row three</string>
     <string name="row_four">row four</string>
+    <string name="nothing">" "</string>
 </resources>
