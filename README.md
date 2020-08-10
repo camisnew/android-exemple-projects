@@ -16,7 +16,7 @@ This exercise mostly trains the hability to work with Android XML and internaliz
 - Square Screen
   - on progress
 
-##COMING SOON
+## COMING SOON
 
 ### Permissions Exercise App (aka PermissionsExercise)
 This proposal is about permissions and sharing information through apps. 
