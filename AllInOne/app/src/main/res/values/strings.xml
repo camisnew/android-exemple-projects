@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AllInOne</string>
+    <string name="calculate">Calcular!</string>
+    <string name="instruction_square">Digite o lado do quadrado</string>
+    <string name="instruction_dial">Digite um número para discar</string>
+    <string name="pikachu">Pikachu</string>
+    <string name="dial">Discar</string>
+    <string name="student">Aluno</string>
+    <string name="square">Quadrado</string>
+    <string name="instructionStudentName">Nome do Aluno</string>
+    <string name="instructionStudentGrade1">Nota 1</string>
+    <string name="instructionStudentGrade2">Nota 2</string>
+    <string name="instructionStudentAverage">Calcular média do aluno</string>
+</resources>

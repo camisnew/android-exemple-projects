@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".StudentScreen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/studentDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/instructionStudentAverage"
+        android:textSize="25sp"
+        android:layout_marginTop="150dp"
+        app:layout_constraintBottom_toTopOf="@id/editTextName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/instructionStudentName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/studentDescription"
+        app:layout_constraintBottom_toTopOf="@id/editTextFirstGrade"/>
+
+
+    <EditText
+        android:id="@+id/editTextFirstGrade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/instructionStudentGrade1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextName"
+        app:layout_constraintBottom_toTopOf="@id/editTextSecondGrade"/>
+
+    <EditText
+        android:id="@+id/editTextSecondGrade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/instructionStudentGrade2"
+        app:layout_constraintBottom_toTopOf="@+id/calculateAverageButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextFirstGrade" />
+
+    <Button
+        android:id="@+id/calculateAverageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/calculate"
+        android:layout_marginBottom="85dp"
+        app:layout_constraintTop_toBottomOf="@id/editTextSecondGrade"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
