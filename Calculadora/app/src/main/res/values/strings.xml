@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="nickname">Nome</string>
+    <string name="welcome">Olá, pessoa!</string>
+    <string name="welcome_explanation">Seja bem-vindo a nossa calculadora de sucesso profissional</string>
+    <string name="profession">Profissão</string>
+    <string name="calculateSuccess">Vamos calcular meu sucesso!</string>
+    <string name="result">Clique no botão para ver seu resultado audio-descritivo</string>
+    <string name="imReadyButton">Estou pronto!</string>
+</resources>
