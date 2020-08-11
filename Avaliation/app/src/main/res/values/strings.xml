@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Avaliation</string>
+    <string name="welcome">Welcome to this app</string>
+    <string name="about_authors">About the devs</string>
+    <string name="calculator">Calculator</string>
+    <string name="random">Chaos</string>
+    <string name="dev_name1" translatable="false">Camila</string>
+    <string name="dev2_name" translatable="false">Lázaro</string>
+    <string name="dev1_email" translatable="false">camilabertholdpires@gmail.com</string>
+    <string name="dev2_email" translatable="false">lazaromacielv@gmail.com</string>
+    <string name="random_number" translatable="false"/>
+    <string name="generate_number">Generate random number</string>
+    <string name="number1">First number</string>
+    <string name="number2">Second Number</string>
+    <string name="calculate_button">Calculate</string>
+    <string-array name="operators">
+        <item>Choose your operator</item>
+        <item>Plus</item>
+        <item>Subtract</item>
+        <item>Times</item>
+        <item>Division</item>
+    </string-array>
+</resources>

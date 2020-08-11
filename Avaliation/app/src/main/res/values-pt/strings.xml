@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Avaliação</string>
+    <string name="welcome">Bem-vindo a este aplicativo</string>
+    <string name="about_authors">Sobre os Devs</string>
+    <string name="calculator">Calculadora</string>
+    <string name="random">Caos</string>
+    <string name="dev_name1" translatable="false">Camila</string>
+    <string name="dev2_name" translatable="false">Lázaro</string>
+    <string name="dev1_email" translatable="false">camilabertholdpires@gmail.com</string>
+    <string name="dev2_email" translatable="false">lazaromacielv@gmail.com</string>
+    <string name="random_number" translatable="false"/>
+    <string name="generate_number">Gerar um número aleatório</string>
+    <string name="number1">Primeiro Númenro</string>
+    <string name="number2">Segundo Número</string>
+    <string name="calculate_button">Calcular</string>
+    <string-array name="operators">
+        <item>Escolha um Operador</item>
+        <item>Adição</item>
+        <item>Subtração</item>
+        <item>Multiplicação</item>
+        <item>Divisão</item>
+    </string-array>
+</resources>
