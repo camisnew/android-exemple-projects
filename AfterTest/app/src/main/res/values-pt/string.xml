@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Pós Prova</string>
+    <string name="getResultButton">Ver resultado</string>
+    <string name="selectNumberErrorMessage">Selecione um número</string>
+
+    <string name="month1">Janeiro</string>
+    <string name="month2">Fevereiro</string>
+    <string name="month3">Março</string>
+    <string name="month4">Abril</string>
+    <string name="month5">Maio</string>
+    <string name="month6">Junho</string>
+    <string name="month7">Julho</string>
+    <string name="month8">Agosto</string>
+    <string name="month9">Setembro</string>
+    <string name="month10">Outubro</string>
+    <string name="month11">Novembro</string>
+    <string name="month12">Dezembro</string>
+
+    <string-array name="monthsNumbers" tools:ignore="InconsistentArrays">
+        <item>Chose one number</item>
+    </string-array>
+</resources>
