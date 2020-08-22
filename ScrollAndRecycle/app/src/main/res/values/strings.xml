@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">ScrollAndRecycle</string>
+    <string name="description_logo">App Logo</string>
+    <string name="recycle_screen">Recycle Screen</string>
+    <string name="scroll_screen">Scroll Screen</string>
+
+<!--    texto longo-->
+    <string name="long_text">ERA UMA VEZ um velho moleiro que tinha três filhos. Antes de morrer, reuniu os seus filhos e diante deles dividiu os seus bens pelos três.
+
+Ao filho mais velho, o moleiro deu-lhe o moinho. Ao filho do meio deixou-lhe o burro. E ao mais novo entregou-lhe um gato.
+
+O filho mais novo, com o gato no seu colo, comentou desiludido:
+
+- Que vou eu fazer com um simples gato?
+
+Qual não foi a sua surpresa quando ouviu o gato responder-lhe:
+
+- Se me deres umas botas pretas, um fato e um saco, farei de ti um homem rico!
+
+Assim fez o rapaz e o gato, todo aperaltado, partiu deixando o seu novo dono muito baralhado.
+
+O gato das botas dirigiu-se ao bosque e caçou duas perdizes, que meteu dentro do saco. Dirigiu-se depois ao castelo do rei e ofereceu-as ao rei, em nome do seu amo, o marquês de Carabás.
+
+Dia após dia, o gato continuou a oferecer presentes ao rei, em nome do marquês, o que fez com que o rei ficasse curioso em saber quem era o marquês de Carabás.
+
+Numa bela tarde, enquanto o rapaz e o seu gato descansavam à beira rio, a carruagem do rei aproxima-se. O gato, rapidamente acorda o seu amo e diz-lhe para se despir e atirar-se ao rio. O rapaz, meio confuso, faz o que o gato lhe diz. Então o gato das botas corre em direção à carruagem, com ar aflito, e grita:
+
+- Socorro majestade! Roubaram as roupas ao meu amo, o marquês de Carabás!
+
+O rei, reconhecendo o nome do marquês, pára prontamente e empresta ao jovem nobres roupas, oferecendo-lhe boleia até à sua casa. O jovem entra na carruagem, meio embaraçado e aflito, pois não sabia o que dizer, sentando-se entre o rei e a sua bela filha, que o acompanhava.
+
+O gato prontamente indica o caminho ao cocheiro do rei e, depois de a carruagem arrancar, corre desenfreado até às terras junto ao castelo do ogre.
+
+Quando lá chegou, viu os camponeses, a quem disse:
+
+- Se querem livrar-se do Ogre malvado, quando o rei passar digam que todas estas terras pertencem ao marquês de Carabás.
+
+E continuou a correr, em direção ao castelo. Quando chegou, encontrou o ogre, que era o dono de todas aquelas terras, sentado a descansar. O ogre ao vê-lo, perguntou:
+
+- Quem és tu? E que fazes no meu castelo?
+
+Ao que o gato respondeu:
+
+- Eu sou o gato das botas, um humilde servo vosso… ouvi dizer que possuís poderes mágicos. É verdade? Será que vós conseguiríeis transformar-vos num leão?
+
+Ao ouvir isto, o ogre transforma-se imediatamente num enorme leão!
+
+O gato, cheio de medo, responde:
+
+- Que maravilha… mas será que conseguiríeis transformar-vos num minúsculo ratinho?
+
+E o ogre, orgulhoso e imprudente, transforma-se logo num pequeno ratinho. O gato das botas, sem perder tempo, salta em direção ao ratinho e come-o.
+
+Nessa altura, chega o coche do rei às portas do castelo, e o gato das botas dirige-se a eles para os receber:
+
+- Bem-vindo ao castelo do meu amo, o marquês de Carabás!
+
+O rei, impressionado com a simplicidade do jovem rapaz, que se encontrava ao pé da porta admirado, convida o agora marquês de Carabás a casar com a sua linda filha. O rapaz aceita e vive feliz para sempre acompanhado da sua bonita princesa e do seu fiel gato.</string>
+    <string name="cat_title">Gato de Botas</string>
+</resources>
