@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="quiz_instructions">Esse quiz é sobre ciências e vale 1 milhão de reais!</string>
+    <string name="quiz_start">Vamos começar</string>
+    <string name="next_button">Próximo</string>
+    <string name="end_button">Ver meu resultado</string>
+    <string name="start_again">Voltar para o início</string>
+</resources>
