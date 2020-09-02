@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:background="@color/background"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_screen_checklist"
+            android:icon="@drawable/ic_checklist"
+            android:title="@string/checklist" />
+        <item
+            android:id="@+id/nav_screen_mood_entry"
+            android:icon="@drawable/ic_entry"
+            android:title="@string/mood_entry" />
+        <item
+            android:id="@+id/nav_screen_mood_analysis"
+            android:icon="@drawable/ic_analysis"
+            android:title="@string/mood_analysis" />
+    </group>
+
+    <item android:title="@string/actions">
+        <menu>
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_bye"
+                android:title="@string/exit"
+                />
+        </menu>
+    </item>
+</menu>

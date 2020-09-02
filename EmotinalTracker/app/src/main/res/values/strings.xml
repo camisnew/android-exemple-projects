@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Emotional Tracker</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string name="avatar">avatar</string>
+
+    <string name="user_name">Namaria Silva Sauro</string>
+    <string name="user_info">120 points away from level 12</string>
+
+    <string name="home">Home</string>
+    <string name="checklist">Checklist</string>
+    <string name="mood_analysis">Mood Analysis</string>
+    <string name="mood_entry">Register Mood</string>
+
+    <string name="actions">Actions</string>
+    <string name="exit">Exit</string>
+
+    <string-array name="emotions">
+        <item>Angry</item>
+        <item>Sad</item>
+        <item>Neutral</item>
+        <item>OK</item>
+        <item>Great</item>
+        <item>Happy</item>
+        <item>Awesome</item>
+    </string-array>
+
+    <string name="welcome_text">Welcome to this app! We\'ll help you keep track of your goals and mood swings.</string>
+
+    <string name="analysis_list">Dia 1: Feliz\nDia 2: Triste\nDia N: OK\nDia N: OK\nDia N: OK\nDia N: OK\nDia N: OK</string>
+    <string name="describe_situation">Here you can share a little about the triggers for this feeling.</string>
+    <string name="register">Register</string>
+
+</resources>
