@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quiz_instructions">Esse é um tributo ao programa de TV. Maior parte das perguntas tem alguma relação com ciências. Vamos ver o quando você acerta.</string>
+    <string name="quiz_start">Vamos começar!</string>
+    <string name="next_button">Próximo</string>
+    <string name="end_button">Ver meu resultado!</string>
+    <string name="start_again">Voltar para o início</string>
+    <string name="result_begin">"Você acertou um total de"</string>
+    <string name="result_final">"perguntas. Parabéns!"</string>
+</resources>

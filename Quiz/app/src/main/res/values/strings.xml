@@ -1,8 +1,10 @@
 <resources>
-    <string name="app_name">Quiz</string>
-    <string name="quiz_instructions">Esse quiz é sobre ciências e vale 1 milhão de reais!</string>
-    <string name="quiz_start">Vamos começar</string>
-    <string name="next_button">Próximo</string>
-    <string name="end_button">Ver meu resultado</string>
-    <string name="start_again">Voltar para o início</string>
+    <string name="app_name" translatable="false">Jogo do Milhão</string>
+    <string name="quiz_instructions">This is a tribute of famous brazilian show. Questions are mostly about science. Let\'s see how right can you get. </string>
+    <string name="quiz_start">Get started</string>
+    <string name="next_button">Next</string>
+    <string name="end_button">See my result</string>
+    <string name="start_again">Back to begin</string>
+    <string name="result_final">"questions. Congratulations!"</string>
+    <string name="result_begin">"You scored a total of"</string>
 </resources>
